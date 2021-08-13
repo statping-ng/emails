@@ -5,7 +5,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/statping/statping/utils"
+	"github.com/statping-ng/statping-ng/utils"
 	"github.com/tdewolff/minify/v2"
 	"github.com/tdewolff/minify/v2/html"
 	"io/ioutil"

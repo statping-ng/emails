@@ -2,9 +2,9 @@ package emails
 
 import (
 	"fmt"
-	"github.com/statping/statping/types/core"
-	"github.com/statping/statping/types/failures"
-	"github.com/statping/statping/types/services"
+	"github.com/statping/statping-ng/types/core"
+	"github.com/statping/statping-ng/types/failures"
+	"github.com/statping/statping-ng/types/services"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"

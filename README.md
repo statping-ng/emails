@@ -1,6 +1,6 @@
-# Statping Emails
+# Statping-ng Emails
 
-This repo contains [mjml.io](https://mjml.io) templates for Statping emails.
+This repo contains [mjml.io](https://mjml.io) templates for Statping-ng emails.
 
 # Templates
 - [Verify](https://mjml.io/try-it-live/S1m-bX5pI)
